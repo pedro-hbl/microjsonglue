@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Repositório com código fonte para o projeto de JSONGlue em microsserviços."
+authors:
+  - family-names: Lopes
+    given-names: Pedro
+title: "MicroJSONGlue"
+version: 2.0.4
+date-released: 2023-09-04
